@@ -4,7 +4,7 @@
 
 DrawAR is a proof of concept collaborative AR drawing app.  This code demonstrates a simple AR drawing app using [ARKit](https://developer.apple.com/documentation/arkit) to create lines in 3D space.  The [Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity) framework is used to share drawings with nearby devices.  When an `ARWorldMap` is generated on one device and sent to others nearby, drawings will appear on other devices in the correct location.
 
-This project was submitteed in partial fulfillment of the requirements for the CS7GV4/CSU44054 Augmented Reality course at Trinity College Dublin.
+This project was submitted in partial fulfillment of the requirements for the CS7GV4/CSU44054 Augmented Reality course at Trinity College Dublin.
 
 ## Usage
 1. Clone or download this repository and open the `.xcodeproj` file in Xcode.

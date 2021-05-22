@@ -13,6 +13,7 @@
 		6EBA83BC264941E800168B46 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EBA83BA264941E800168B46 /* Main.storyboard */; };
 		6EBA83BE264941E900168B46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EBA83BD264941E900168B46 /* Assets.xcassets */; };
 		6EBA83C1264941E900168B46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6EBA83BF264941E900168B46 /* LaunchScreen.storyboard */; };
+		6ECE2F3E265932B8004EE75F /* utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECE2F3D265932B8004EE75F /* utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6EBA83BD264941E900168B46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EBA83C0264941E900168B46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6EBA83C2264941E900168B46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6ECE2F3D265932B8004EE75F /* utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6EBA83B4264941E800168B46 /* AppDelegate.swift */,
 				6EBA83B6264941E800168B46 /* ARViewController.swift */,
 				6E2CE6802649C3F600D68959 /* MultipeerSession.swift */,
+				6ECE2F3D265932B8004EE75F /* utils.swift */,
 				6EBA83BA264941E800168B46 /* Main.storyboard */,
 				6EBA83BD264941E900168B46 /* Assets.xcassets */,
 				6EBA83BF264941E900168B46 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				6E2CE6812649C3F600D68959 /* MultipeerSession.swift in Sources */,
 				6EBA83B7264941E800168B46 /* ARViewController.swift in Sources */,
 				6EBA83B5264941E800168B46 /* AppDelegate.swift in Sources */,
+				6ECE2F3E265932B8004EE75F /* utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

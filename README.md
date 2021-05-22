@@ -14,6 +14,6 @@ This project was submitted in partial fulfillment of the requirements for the CS
 
 
 ## Notes
-While this project acts as a good proof of concept for a collaborative AR drawing app, there are limitations with the application.  Lines consist of cylinders, meaning there are gaps after sharp turns.  For a more complete discussion of the limitations and results of this project, see the academic report [here](https://github.com/Finnvoor/DrawAR/blob/main/AR%20Project%20Report.pdf).  The main AR renderer and drawing generation code can be found in `ARViewController.swift`.
+While this project acts as a good proof of concept for a collaborative AR drawing app, there are limitations with the application.  Lines consist of cylinders, meaning there are gaps after sharp turns.  For a more complete discussion of the limitations and results of this project, see the academic report [here](https://github.com/Finnvoor/DrawAR/blob/main/AR%20Project%20Report.pdf).  The main AR renderer and drawing generation code can be found in [`ARViewController.swift`](https://github.com/Finnvoor/DrawAR/blob/main/DrawAR/ARViewController.swift).
 
 > `MultipeerSession.swift` adapted from Apple's [Creating a Multiuser AR Experience](https://developer.apple.com/documentation/arkit/creating_a_multiuser_ar_experience) sample code.

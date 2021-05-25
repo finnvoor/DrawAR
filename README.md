@@ -6,6 +6,8 @@ DrawAR is a proof of concept collaborative AR drawing app.  This code demonstrat
 
 This project was submitted in partial fulfillment of the requirements for the CS7GV4/CSU44054 Augmented Reality course at Trinity College Dublin.
 
+![](https://user-images.githubusercontent.com/8284016/119513619-495ecf80-bd6c-11eb-8225-a0f3a5df6828.mov)
+
 ## Usage
 1. Clone or download this repository and open the `.xcodeproj` file in Xcode.
 2. Run the application on a device with running iOS 14.1 or later and an A9 or later processor.
